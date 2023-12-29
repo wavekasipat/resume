@@ -24,6 +24,12 @@ In my career journey at Metro Systems, I've progressed from an API developer to 
 - **DevOps**: Jenkins, Kubernetes, Docker, Docker Compose, Nginx
 - **Additional**: Ability to learn and adapt to new technologies quickly
 
+# Project Impact
+
+- **A B2B web ordering system** for a Petroleum and Petrochemical Company.
+- **A B2B web ordering system** for a Construction Material Company.
+- **A web production planning system** for an Automotive Engine Manufacturing Company.
+
 # Work Experience
 
 ## Metro Systems Corporation (2015 - Present)
@@ -57,12 +63,6 @@ In my career journey at Metro Systems, I've progressed from an API developer to 
 ### Java API Developer (1 year)
 
 - Started the career as a Java API developer.
-
-# Project Impact
-
-- A B2B web ordering system for a Petroleum and Petrochemical Company.
-- A B2B web ordering system for a Construction Material Company.
-- A web production planning system for an Automotive Engine Manufacturing Company.
 
 # Education
 
