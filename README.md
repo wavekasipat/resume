@@ -5,6 +5,7 @@ left-column:
 - 'Email: [wavekasipat@gmail.com](mailto:wavekasipat@gmail.com)'
 - 'Mobile: +6687-321-2537'
 right-column:
+- 'LinkedIn: [https://www.linkedin.com/in/wavekasipat](https://www.linkedin.com/in/wavekasipat)'
 - 'Last Updated: \today'
 ...
 
